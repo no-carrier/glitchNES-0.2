@@ -30,7 +30,7 @@ compile.bat   - Batch file to compile glitchNES
 compile.sh    - Shell script to compile glitchNES
 glitchnes.chr - CHR file (graphics banks)
 glitchnes.asm - Source code for glitchNES
-glitchnes.asm - Compiled copy of glitchNES
+glitchnes.nes - Compiled copy of glitchNES
 gpl.txt       - GNU General Public License
 icon.nam      - nametable file (see below)
 order.nam     - nametable file (see below)
